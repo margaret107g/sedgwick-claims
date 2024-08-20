@@ -21,7 +21,7 @@ Sedgwick Claims helps organizations manage claims effectively, improving both op
 ## Author
 - **Name**: Margaret Graves  
 - **Email**: margaret.g.0107@outlook.com  
-- **Website**: Sedgwick Claims
+- **Website**: [Sedgwick Claims](https://www.my-sedgwick.com)
 - Margaret Graves is a seasoned software developer with extensive experience in developing enterprise-level applications. With a strong background in claims management systems.
 - Margaret brings expertise in building scalable and efficient solutions. Known for her dedication to coding excellence and her supportive nature.
 - Margaret excels at delivering high-quality software solutions and assisting the developer community.
